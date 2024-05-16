@@ -41,12 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo de um ebook sobre o tema SQl.O ebook é do nicho de programação e seu subnicho é SQL.O título deve ser épico e curto.O título deve ter uma temática mais nerd.Me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em SQL, abordando conceitos básicos de SQL ,como o que é uma query, a importância do SQL na manipulação de dados, sua relevância no contexto da programação e como ele se tornou uma ferramenta fundamental para profissionais de tecnologia da informação. Além disso, poderia destacar a importância de dominar o SQL para desenvolver aplicações eficientes e escaláveis.
-(REGRAS)
->Explique sempre de maneira simples
->Deixe o texto enxuto
->Sempre traga exemplos de código em contextos reais
->Sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em SQL, abordando conceitos básicos de SQL ,como o que é uma query, a importância do SQL na manipulação de dados, sua relevância no contexto da programação e como ele se tornou uma ferramenta fundamental para profissionais de tecnologia da informação. Além disso, poderia destacar a importância de dominar o SQL para desenvolver aplicações eficientes e escaláveis.(REGRAS)>Explique sempre de maneira simples>Deixe o texto enxuto>Sempre traga exemplos de código em contextos reais>Sempre deixe um título sugestivo por tópico |
 
 
 
